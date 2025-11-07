@@ -5,6 +5,6 @@
 * Abacate
 * Limão
 * Sal
-* Pimenta (a gosto)
+* Pimenta malagueta (a gosto)
 
 ## Instruções de Preparo
